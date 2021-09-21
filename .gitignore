@@ -1,4 +1,16 @@
 .gradle
+.settings
+.project
+.classpath
+.idea
+.vscode
+.DS_Store
+bin
+build
+target
+ktDebugJsonLog.txt
+
+.gradle
 /build/
 
 # Ignore Gradle GUI config
